@@ -1,4 +1,1 @@
--download repo from github (unzip folder directory)
--cd into directory (with admin privs)
--npm install
--npm start
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
